@@ -1,6 +1,7 @@
 
 
 weeks = 52
+
 hours = 40
 salary_per_hour = 200
 
