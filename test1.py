@@ -1,5 +1,22 @@
 hej
 
-Den anställde har 25 000 kronor i månadslön.
-Varje semesterdag innebär 107:50 kronor i semestertillägg (0,0043 X 25 000 kronor)
-Om den anställde tar ut 20 semesterdagar blir semestertillägget 2 150 kronor (0,0043 X 20 X 25 000)28 maj 2024
+Steg för att beräkna semestertillägget:
+Månadslön: 25 000 kronor.
+Semestertillägg per dag: 0,0043 * 25 000 kronor = 107,50 kronor.
+Antal semesterdagar: 20 dagar.
+Totalt semestertillägg: 107,50 kronor * 20 dagar.
+
+
+# Månadslön
+manadslon = 25000
+
+# Semestertillägg per dag (0,0043 * månadslön)
+semestertillagg_per_dag = 0,0043 * manadslon
+
+# Antal semesterdagar
+antal_semesterdagar = 20
+
+# Totalt semestertillägg
+totalt_semestertillagg = semestertillagg_per_dag * antal_semesterdagar
+
+totalt_semestertillagg
