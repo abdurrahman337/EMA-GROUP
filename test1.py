@@ -1,8 +1,8 @@
 
 
-weeks = 52
+weeks = 53
 hours = 40
-salary_per_hour = 100
+salary_per_hour = 150
 
 tax = 22.0
 
